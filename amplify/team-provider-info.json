@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-docume-dev-518dc-authRole",
+      "UnauthRoleArn": "arn:aws:iam::373834924997:role/amplify-docume-dev-518dc-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::373834924997:role/amplify-docume-dev-518dc-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-docume-dev-518dc-deployment",
+      "UnauthRoleName": "amplify-docume-dev-518dc-unauthRole",
+      "StackName": "amplify-docume-dev-518dc",
+      "StackId": "arn:aws:cloudformation:us-east-1:373834924997:stack/amplify-docume-dev-518dc/9d590940-8648-11ef-b3b3-0e6c453c2bc1",
+      "AmplifyAppId": "d1x0i2r714yeaf"
+    },
+    "categories": {
+      "auth": {
+        "docume5cb6a31a": {}
+      }
+    }
+  }
+}
